@@ -3,4 +3,7 @@
 - Add feature-A
 - Add fix-B
 - feature-C
+- Add feature-D
+## Now test the clone command
+
 
